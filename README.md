@@ -68,12 +68,6 @@ Senior AI Executive with over 10 years of experience orchestrating the intersect
   </tr>
 </table>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dDoom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="dDoom GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dDoom&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="dDoom GitHub Streak" width="49%">
-</div>
 
 ### 🏆 Selected Awards & Honors
 
