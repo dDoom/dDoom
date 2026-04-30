@@ -64,7 +64,7 @@ My track record spans from zero-to-one AI products (text-to-video GenAI, autonom
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><b>Inita</b> <i>(USA Tech Startup)</i></h4>
+      <h4><b>Inita</b> <i>(Swiss Generative AI Startup)</i></h4>
       <ul>
         <li><b>Staff AI Engineer / Head of AI</b> <i>(Jul 2024 - Jan 2025)</i><br>
         Architected and shipped autonomous LLM agents for business automation. Built core inference pipelines, designed RAG systems, and mentored engineers on production ML patterns. Operated as the technical authority — coding critical paths while scaling the AI team.</li>
